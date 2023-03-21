@@ -9,7 +9,7 @@
     "dev": "webpack serve --open --mode=development",
     "lint": "eslint ./src",
     "start": "react-scripts start",
-    "analyze": "webpack-bundle-analyzer ./dist/bundle-report.json --default-sizes gzip"
+    "analyze": "webpack-bundle-analyzer ./docs/bundle-report.json --default-sizes gzip"
   },
   "keywords": [],
   "author": "",
